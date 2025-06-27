@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anirudhsai20
-- 👀 I’m interested in full stack development and product management.
+- 👀 I’m interested in MERN stack development and product management.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me: anirudh18sai@gmail.com
